@@ -1,0 +1,1 @@
+store run 存的是原来训好的模型，all系列主要包括没shuffle前 测的都是kaggle数据集。
