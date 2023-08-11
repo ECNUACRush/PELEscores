@@ -1,6 +1,6 @@
 # PELEscores
 
-## The official code for pelescores corresponds to the four steps in the paper. 
+## The official code for PELEcores. 
 
 ## Requirement:
 ```python
