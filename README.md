@@ -15,7 +15,7 @@ https://github.com/MIRACLE-Center/CTPelvic1K
 ### Xray:
 cgmh-pelvisseg: https://www.kaggle.com/datasets/tommyngx/cgmh-pelvisseg
 
-https://www.nature.com/articles/s41467-021-21311-3
+PXR150: https://www.nature.com/articles/s41467-021-21311-3
 
 Pleas feel free to contact me if you have any problem: 123466188[at]qq.com
 
