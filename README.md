@@ -27,7 +27,8 @@ In this way, you should generate DRR images by deepdrr using our CT data.
 you should Install deepdrr according to the instructions: https://github.com/arcadelab/deepdrr.
 ```python
 cd 0deepdrr
-python example.py 
+python example.py
+# you can also create your own projection file, take it easy.
 ```
 ### step1：cyclegan between xray and drr images
 You also need to configure your cyclegan environment according to the instructions：https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
